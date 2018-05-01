@@ -1,0 +1,2 @@
+sample input 1
+sample input 2
